@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=mysql" height="100px" width="100px" alt="Mysql Badge"/>
   <img src="https://skillicons.dev/icons?i=spring" height="100px" width="100px" alt="Spring Badge"/>
   <img src="https://skillicons.dev/icons?i=hibernate" height="100px" width="100px" alt="Hibernate Badge"/>
+  <img src="https://skillicons.dev/icons?i=react" height="100px" width="100px" alt="React Badge"/>
   <img src="https://skillicons.dev/icons?i=postman" height="100px" width="100px" alt="Postman Badge"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="100px" width="100px" alt="Vscode Badge"/>
   <img src="https://skillicons.dev/icons?i=js" height="100px" width="100px" alt="Js Badge"/>
